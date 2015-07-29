@@ -3,6 +3,8 @@
 ## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFfkpMd2UyWjBsc2JsSE4tRDFkU3BvMktFQkhUN1J6VExxSUUzOHlSR0RhNm8">Материалы урока</a>
 
 ## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFVUFIeHVZdHNRUU0">Вступление. HW7.</a>
+> Маппинг контроллера был пропущен на курсе topjava02, но в видео оставил, тк поучительно.
+
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFWDRoLWYxVGEzZDQ">1 HW7.patch</a>**
 
 
