@@ -68,7 +68,7 @@
 -  Тестируем Security REST через SoapUI
 
 ## Домашнее задание HW08
-    Перевести mealList на dandelion (mealList.jsp, UserMealAjaxController, локализация)
+    Перевести mealList на dandelion (mealList.jsp, UserMealAjaxController)
     Реализовать удаление/добавление записи еды.
 
 Optional.
