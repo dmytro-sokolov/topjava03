@@ -73,6 +73,6 @@
 
 Optional.
 
-    Реализовать enable/disable User через checkbox в userList.jsp (достаточно реализовать только в DataJpa)
+    Реализовать enable/disable User через checkbox в userList.jsp
     
 -  <a href="https://vk.com/topic-88584431_31711302">Обсуждение ДЗ в группе VK</a>
