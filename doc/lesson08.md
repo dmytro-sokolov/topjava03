@@ -28,6 +28,7 @@
 -  Создание таблиц на основе проекта Dandelion-Datatables. Форматирование.
 
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFX0VoMU9JYW5zN0E">AJAX. jQuery. Notifications.</a>
+###  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFSWQ5TVA5cnZQLXc">Bootstrap.js</a>
 ###  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFTE1TTklNZm1qRjQ">Fix item_id serialization.</a>
 
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFbDhfdURJbDBQV28">4 ajax jquery.patch</a>**
