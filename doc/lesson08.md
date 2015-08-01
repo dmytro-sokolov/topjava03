@@ -29,7 +29,7 @@
 
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFX0VoMU9JYW5zN0E">AJAX. jQuery. Notifications.</a>
 ###  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFSWQ5TVA5cnZQLXc">Bootstrap.js</a>
->  JSP полезны, если надо с сервера отдать статический html, но с какой то серверной логикой (условия, циклы), сформированный на основе модели. Для динамической отрисовки таблицы мы будем использовать rest и json на 9м уроке (работа с Dandelion Datatables через Ajax).
+>  JSP полезны, если надо с сервера отдать статический html, но с какой то серверной логикой (условия, циклы), сформированный на основе модели. Для динамической отрисовки таблицы мы будем использовать REST и JSON на 9м уроке (работа с Dandelion Datatables через Ajax).
 
 ###  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFTE1TTklNZm1qRjQ">Fix item_id serialization.</a>
 
