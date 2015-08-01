@@ -28,7 +28,8 @@
 -  Создание таблиц на основе проекта Dandelion-Datatables. Форматирование.
 
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFX0VoMU9JYW5zN0E">AJAX. jQuery. Notifications.</a>
->  Правка к видео: WEB-INF/jsp/userList.jsp:52 (пропущен атрибут name="item_id"). 
+>  Правка к видео: WEB-INF/jsp/userList.jsp:52 (пропущен атрибут name="item_id").
+
 >  form.serialize() сериализует по name.  
 
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFbDhfdURJbDBQV28">4 ajax jquery.patch</a>**
