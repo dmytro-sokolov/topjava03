@@ -17,21 +17,25 @@
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFdTFDeWtWOUtMZ00">Spring Binding. Реализация update</a>
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFcnI0NFZCcmhrN1k">3 binding.patch</a>**
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFemdGTGxIQUhaTDQ">4 update.patch</a>**
+
 -  <a href="http://www.infoq.com/articles/springmvc_jsx-rs">JAX-RS vs Spring MVC</a>
 
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFMm4yU0dHWFVhbDg">Работа с Dandelion Datatables через Ajax.</a>
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFMkhicjNxeVRTRW8">5 datatable via ajax.patch</a>**
+
 -  <a href="http://dandelion.github.io/components/datatables/1.1.0/docs/html/#8-ajax">How to use an AJAX source</a>
 -  Порядок инициализации. jQuery onLoad и <a href="http://dandelion.github.io/components/datatables/1.1.0/docs/html/#7-3-using-callbacks">Datatables callbacks.</a>
  
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFT3lRUUQ0c1N0alk">Spring Validation</a>  
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFYUlFTVBuaVRORHM">6 validation.patch</a>**
+
 -  <a href="http://docs.spring.io/spring/docs/current/spring-framework-reference/html/validation.html#validation-beanvalidation">Spring Validation.</a>
 -  <a href="http://beanvalidation.org/">Bean Validation</a>
 -  <a href="https://spring.io/blog/2012/08/29/integrating-spring-mvc-with-jquery-for-validation-rules">Валидация формы по AJAX.</a>
 
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFckpVZG1vNjU2YTg">Реализация собственного провайдера авторицазии.</a>
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFa1VQUHVYZm1PT1U">7 auth via user service.patch</a>**
+
 -  <a href="http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#userdetailsservice-implementations">UserDetailsService Implementations</a>
 
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFT2Qya2V4N0kzWWM">Принцип работы Spring Security. Проксирование.</a> 
@@ -43,6 +47,7 @@
 
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFU3hMR0o4eGNoUmc">Spring Security Test</a>  
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFRkd0YWlSV0w4djg">8 spring security test.patch</a>**
+
 -  <a href="http://docs.spring.io/spring-security/site/docs/4.0.x/reference/htmlsingle/#test">Spring Security Test</a></h3>
 -  <a href="http://docs.spring.io/spring-security/site/docs/4.0.x/reference/htmlsingle/#test-mockmvc">Интеграция со Spring MVC Test</a>
 -  <a href="http://docs.spring.io/spring-security/site/docs/4.0.x/reference/htmlsingle/##testing-http-basic-authentication">HttpBasic авторизация</a>
@@ -50,6 +55,7 @@
 
 ##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFUHNiYzNMbkF6ajQ">Encoding password</a>  
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFSXdNSWZIelVsUjA">9 password encoding.patch</a>**
+
 - <a href="http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#core-services-password-encoding">Password Encoding</a>
 
 ## Домашнее задание HW9
