@@ -59,15 +59,12 @@
 - <a href="http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#core-services-password-encoding">Password Encoding</a>
 
 ## Домашнее задание HW9
+    ВНИМАНИЕ: тк для не-REST контроллеров security еще не подключена, для их работы с LoggedUser.id() нужно вернуть return BaseEntity.START_SEQ
+
     Перевести mealList.jsp на работу по ajax
     Реализовать для meal Update/ Binding/ Validation 
-    Добавить авторизацию в UserMeals тесты
 
-ВНИМАНИЕ: тк для не-REST контроллеров security еще не подключена, для их работы с LoggedUser.id() нужно вернуть
-
-    public static int id() {
-        return BaseEntity.START_SEQ;
-    }
+    Добавить авторизацию в UserMeals тесты и тест на неавторизованный доступ
 
 Optional.
 
