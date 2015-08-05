@@ -39,7 +39,7 @@
 -  <a href="http://devcolibri.com/1250">JSTL для написания JSP страниц</a>
 
 
-## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFTnRoeUlOWXpSMWs">Динамическое изменение профиля при запуске. Конфигурирование Tomcat через maven plugin и jndi</a>
+## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFTnRoeUlOWXpSMWs">Динамическое изменение профиля при запуске. Конфигурирование Tomcat через maven plugin. Jndi</a>
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFM3M1Skt0T3BsWUU">5 tomcat pool jndi.patch</a>**
 
 -  Динамическое изменение профиля Spring при запуске 
