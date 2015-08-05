@@ -12,7 +12,7 @@
 - <a href="http://prologistic.com.ua/polnoe-rukovodstvo-po-java-8-stream.html">Перевод Java 8 Stream Tutorial</a>
 - <a href="https://docs.google.com/presentation/d/1fR1N_UsQDhOarLKo5nrgMU1r5-M8v-IbKhpS3sQTKnY">Основное в Java 8</a>
 
-## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFeG96RVhtYnE5b3M">Обзор используемых на вебинаре технологий. Интеграция ПО.</a>
+## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFeG96RVhtYnE5b3M">Обзор используемых в проекте технологий. Интеграция ПО.</a>
 *(знакомый материал можно прокрутить.)*
 
 -  <a href="http://www.youtube.com/watch?v=rJZHerwi8R0">Видео "Приложение Spring Pet Clinic"</a> 
