@@ -25,7 +25,7 @@
 -  <a href="http://www.infoq.com/articles/springmvc_jsx-rs">JAX-RS vs Spring MVC</a>
 -  <a href="http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html#mvc-ann-requestmapping">Request mapping</a>
 
-## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFQmNwOXJ6RFk4M1U">Тестирование REST контроллеров. Добавление Jackson.</a>
+## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFQmNwOXJ6RFk4M1U">Тестирование REST контроллеров. Jackson.</a>
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFbktibjY3bHZUUmc">5 rest test jackson.patch</a>**
 
 -  https://github.com/FasterXML/jackson-databind
