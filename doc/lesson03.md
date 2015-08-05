@@ -43,7 +43,7 @@
 - **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZnJKampTSFJmMGM">6 Add db props.patch</a>**
 -  <a href="http://habrahabr.ru/company/JetBrains/blog/204064/">Настройка Database в IDEA</a> и запуск SQL.
 
-## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFMGNWUXhaVzdlU0k">Инициализация базы. Имплементация UserRepository через Spring Jdbc Template.</a>
+## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFMGNWUXhaVzdlU0k">Инициализация базы через Spring. Spring Jdbc Template.</a>
 - **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFZ185clpYTm94eG8">7 populate and init db.patch</a>**
 -  Скрипты инициализация базы
 
