@@ -20,7 +20,7 @@
 ## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFNW0yVWhXcGNPU2M">Профили Maven и Spring</a>
 -  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFWkE1U2dFc3Vqakk">2 profiles connection pool.patch</a>**
 
-## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFTWJOdHduOWtNcTA">Пулы коннектов</a>
+## <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFTWJOdHduOWtNcTA">Пул коннектов</a>
 
 -  Выбор реализации пула коннектов: <a href="http://jolbox.com/">BoneCP</a>, <a href="http://commons-dbcp.apache.org">Commons Database Connection Pooling</a>, <a href="https://github.com/brettwooldridge/HikariCP">HikariCP</a>
 -  <a href="http://blog.trustiv.co.uk/2014/06/battle-connection-pools">Battle of the Connection Pools</a>
