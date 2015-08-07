@@ -58,16 +58,17 @@
 
 - <a href="http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#core-services-password-encoding">Password Encoding</a>
 
-## Домашнее задание HW9
-    ВНИМАНИЕ: тк для не-REST контроллеров security еще не подключена, для их работы с LoggedUser.id()
-    нужно вернуть return BaseEntity.START_SEQ
-    и поправить в форме Meal Details name="datetime"  на name="dateTime"
-    
-    Реализовать для meal Binding/ Validation 
+##  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFU0M4UFlVZGE0bUk">Подключение datetime-picker</a>  
+-  **<a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFTHNERTcxMDJNTGs">10_ datetime_ picker.patch</a>**
 
+- <a href="http://xdsoft.net/jqplugins/datetimepicker/">DateTimePicker jQuery plugin</a>
+
+## Домашнее задание HW9
+    Реализовать для meal Binding/ Validation 
     Перевести mealList.jsp на работу по ajax и реализовать update
     
-    Добавить авторизацию в UserMeals тесты и тест на неавторизованный доступ
+   Для REST контроллеров security уже подключена, вернуть LoggedUser.id() с авторизацией
+   Добавить авторизацию в UserMeals тесты + тест на неавторизованный доступ
 
 Optional.
 
