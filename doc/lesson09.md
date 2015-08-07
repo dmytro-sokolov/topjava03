@@ -63,9 +63,9 @@
     нужно вернуть return BaseEntity.START_SEQ
     и поправить в форме Meal Details name="datetime"  на name="dateTime"
     
-    Реализовать для meal Update/ Binding/ Validation 
+    Реализовать для meal Binding/ Validation 
 
-    Перевести mealList.jsp на работу по ajax
+    Перевести mealList.jsp на работу по ajax и реализовать update
     
     Добавить авторизацию в UserMeals тесты и тест на неавторизованный доступ
 
