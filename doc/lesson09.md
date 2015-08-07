@@ -62,7 +62,8 @@
     ВНИМАНИЕ: тк для не-REST контроллеров security еще не подключена, для их работы с LoggedUser.id()
     нужно вернуть return BaseEntity.START_SEQ
     и поправить в форме Meal Details name="datetime"  на name="dateTime"
-Реализовать для meal Update/ Binding/ Validation 
+    
+    Реализовать для meal Update/ Binding/ Validation 
 
     Перевести mealList.jsp на работу по ajax
     
