@@ -64,11 +64,13 @@
 - <a href="http://xdsoft.net/jqplugins/datetimepicker/">DateTimePicker jQuery plugin</a>
 
 ## Домашнее задание HW9
-    Реализовать для meal Binding/ Validation 
+    Реализовать для meal Binding/ Validation.
     Перевести mealList.jsp на работу по ajax и реализовать update
     
-    Для REST контроллеров security уже подключена, вернуть LoggedUser.id() с авторизацией
-    Добавить авторизацию в UserMeals тесты + тест на неавторизованный доступ
+    Для REST контроллеров security уже подключена:
+    изменить тесты, чтобы в mock имплементацией LoggedUser.id() они не работали;
+    вернуть LoggedUser.id() с авторизацией и добавить авторизацию в UserMeals тесты + тест на неавторизованный доступ;
+    починить testGetBetween.
 
 Optional.
 
